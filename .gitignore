@@ -1,1 +1,4 @@
 build/
+
+m6502Emu/build/
+m6502Emu/compile_commands.json
